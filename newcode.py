@@ -6,3 +6,4 @@ for i in range(1,num+1):
 
 
 #result will print all the numbers
+#result will be displayed
